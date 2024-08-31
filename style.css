@@ -480,8 +480,8 @@ img {
 
   .head_box02 img {
     width: auto;
-    height: 35px;
-    transform: translateY(9%);
+    height: 40px;
+    transform: translateY(12%);
   }
 }
 
@@ -1244,7 +1244,7 @@ li::after {
   font-size: 1.1rem;
   color: #ffffff;
   background-color: #0c6b08;
-  padding-bottom: 22px;
+  padding: 22px 10px;
 }
 
 .footer_mainnav {
@@ -1780,7 +1780,7 @@ li::after {
     letter-spacing: 0;
   }
 
- 
+
 
   #sec04 .case .case_info {
     width: 29.4270833333vw;
