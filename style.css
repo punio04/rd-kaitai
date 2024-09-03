@@ -503,6 +503,12 @@ img {
   .site-title_pconly {
     display: none;
   }
+
+  .header_in {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+  }
 }
 
 @media (min-width: 640px) {
