@@ -1,7 +1,23 @@
 .head_box02 {
   float: right;
-  padding-top: 0px;
   display: flex;
+  padding-top: 0px;
+}
+
+.head_box01 {
+  display: flex;
+}
+
+.header_in {
+  width: 1024px;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.head_box01 img {
+  width: auto;
+  height: 74px;
+  transform: translateY(0%);
 }
 
 .header_btm01:hover {
@@ -11,7 +27,7 @@
 .head_box02 img {
   width: auto;
   height: 74px;
-  transform: translateY(9%);
+  transform: translateY(0%);
 }
 
 .w-full {
@@ -482,6 +498,10 @@ img {
     width: auto;
     height: 40px;
     transform: translateY(12%);
+  }
+
+  .site-title_pconly {
+    display: none;
   }
 }
 
